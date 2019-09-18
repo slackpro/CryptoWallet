@@ -1,0 +1,23 @@
+pt-BR:
+  current_locale: "Português do Brasil"
+  hello: "Olá Mundo"
+  welcome: "Seja Bem-vindo!"
+  messages:
+    welcome: "Este é um app para gerenciar suas cripto moedas."
+    menu: "Para começar, selecione uma das opções a baixo:"
+    confirm: "Tem certeza?"
+    
+  link:
+    home: "Página Inicial"
+    show: "Mostrar"
+    edit: "Editar"
+    destroy: "Deletar"
+    new: "Novo"
+    back: "Voltar"
+    new_mining_type: "Nova Moeda de Mineração"
+  editing:
+    coin: "Editando Moeda"
+    mining_type: "Editando tipo de mineração"
+  new:
+    coin: "Nova Moeda"
+    mining_type: "Novo Tipo de Mineração"

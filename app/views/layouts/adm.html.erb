@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CryptoMoedas</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <h1>CABEÇALHO - ADM</h1>
+    <%= link_to 'Pagina Inicial', "/welcome/index" %>
+    <%= yield %>
+    <h1>RODAPÉ - ADM</h1>
+  </body>
+</html>
